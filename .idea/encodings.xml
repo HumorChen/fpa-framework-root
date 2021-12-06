@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/../dubbo-test-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../dubbo-test-consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../dubbo-test-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../dubbo-test-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../fpa-common-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../fpa-starter-dubbo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../fpa-starter-mybatisplus/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../fpa-starter-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../fpa-starter-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../fpa-user-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../fpa-user-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../fpa-user-provider/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
